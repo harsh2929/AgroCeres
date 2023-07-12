@@ -1,16 +1,34 @@
-# AgroCeres 
 
-Flutter all in one  farm application
+# AGROCERES
 
-## Getting Started
+Agroceres is a flutter based app for farmers, integrating various functionalities in one app
 
-This project is a starting point for a Flutter application.
+## Acknowledgements
 
-A few resources to get you started if this is your first Flutter project:
+ - [US S.C Website](https://www.supremecourt.gov/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Specifics
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Language used 
+
+```http
+  Flutter
+```
+
+
+## Authors
+
+No collaborators
+
+
+## ContactMe
+
+EMAIL ID: 
+
+12112011@nitkkr.ac.in [University]
+harshkumar09104@gmail.com [personal]
+
+
+
+
+ 

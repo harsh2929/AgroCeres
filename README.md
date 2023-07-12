@@ -3,9 +3,7 @@
 
 Agroceres is a flutter based app for farmers, integrating various functionalities in one app
 
-## Acknowledgements
 
- - [US S.C Website](https://www.supremecourt.gov/)
 
 ## Project Specifics
 
